@@ -1,7 +1,12 @@
 I refer to this post to help me study about sentiment analysis
 https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-in-python-95e354ea84f6
 
+While studying about sentiment analysis, I also wrote a post on Medium:
+(Text Processing and Classification Intro (Part 1 — Sentiment Analysis))
+https://medium.com/p/7e22a83e1c4 
 
+(Text Processing and Classification Intro (Part 2 — Text Classification))
+https://medium.com/p/9dc58782acb6
 
 This is the dataset link:
 https://www.kaggle.com/snap/amazon-fine-food-reviews?select=database.sqlite
