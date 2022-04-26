@@ -1,3 +1,7 @@
+I refer to this post to help me study about sentiment analysis
 https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-in-python-95e354ea84f6
-https://datacarpentry.org/python-ecology-lesson/09-working-with-sql/index.html
+
+
+
+This is the dataset link:
 https://www.kaggle.com/snap/amazon-fine-food-reviews?select=database.sqlite
